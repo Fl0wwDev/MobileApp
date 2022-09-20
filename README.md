@@ -1,6 +1,6 @@
 # asynconf
 
-A new Flutter project.
+My first Mobile App.
 
 ## Getting Started
 
